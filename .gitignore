@@ -10,7 +10,7 @@ Scripts/workflows/Thomas/*
 Scripts/workflows/example_API/*
 
 ## specific files
-*.html
+#*.html
 
 # History files
 .Rhistory
